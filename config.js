@@ -3,7 +3,7 @@
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
 // RECODE BY KOKO PANGERAN
-
+// RECODE BY KOKO•REY✓
 //=============『 Utama 』================== //
 global.owner = ['6285232604817'] 
 global.mods = ['6285232604817'] 
