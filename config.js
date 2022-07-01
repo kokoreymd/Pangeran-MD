@@ -5,24 +5,24 @@
 // RECODE BY KOKO PANGERAN
 
 //=============『 Utama 』================== //
-global.owner = ['+1(450)235-4024'] 
-global.mods = ['+1(450)235-4024'] 
-global.prems = ['+1(450)235-4024'] 
+global.owner = ['6285232604817'] 
+global.mods = ['6285232604817'] 
+global.prems = ['+6285771052661'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.numberowner = '+1(450)235-4024'
-global.instagram = 'https://instagram.com/kokopangeran_'
-global.github = 'https://github.com/kokopangeran'
-global.dana = '087832147584'
-global.pulsa = '087832147584'
-global.gopay = '087832147584'
+global.nameowner = '®.KoKo•Rey✓×፝֟͜×'
+global.numberowner = '+6285232604817'
+global.instagram = 'https://instagram.com/callme_rey1921_'
+global.github = 'https://github.com/kokoreymd'
+global.dana = '085232604817'
+global.pulsa = '085232604817'
+global.gopay = '085232604817'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.namebot = '®.KoKo•Rey✓×፝֟͜×'
 global.gc = 'https://chat.whatsapp.com/BelumBuatGroupBot'
-global.web = 'https://instagram.com/kokopangeran_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/kokopangeran_'
+global.web = 'https://instagram.com/callme_rey1921' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/callme_rey1921'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -34,8 +34,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
 global.watermark = wm
-global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.wm3 = 'ᯤ ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜ®.KoKo•Rey✓×፝֟͜×'
+global.wm3 = 'ᯤ ®.KoKo•Rey✓×፝֟͜×'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -45,8 +45,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = '©ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ-MD×፝֟͜×'
-global.author = '@ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.packname = '®.KoKo•Rey✓×፝֟͜×'
+global.author = '®.KoKo•Rey✓×፝֟͜×'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
